@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: stage1.mybluemix.net
+  name: otc-ui-chrome-ui-connections-test-app
+  host: otc-ui-chrome-ui-connections-test-app-1491936731900
+  disk_quota: 1024M
